@@ -6,5 +6,5 @@ int main()
     cin.tie(0);
     int a,b;
     cin>>a>>b;
-    cout<<a+b;
+    cout<<"The sum is: "<<a+b;
 }
